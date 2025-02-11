@@ -18,12 +18,13 @@ a {
     height: 70px;;
     margin-inline: auto;
     
-        display: flex;
+    display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .logo {
+    
     font-size: 48px;;
 }
 
@@ -35,7 +36,7 @@ a {
 
 .nav-list a {
     font-size: 18px;
-    color: #fff;
+    color: #000000;
     padding-block: 16px;
     
 }
